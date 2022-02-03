@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafael Roman</h1>
 <h4 style="text-align: justify">Experienced Leader in tech and Software Engineer, main experience with JVM languages and mobile development. </h4>
-<h4 style="text-align: justify">Not afraid of new challenges, have worked with many technologies and languages. On my free time I develop mobile applications, currently working with Flutter, and maintaining an app with over 2.5k daily active users.</h4>
-<h4 style="text-align: justify">Have helped built more than 5 international banks!</h4>
+<p style="text-align: justify">Not afraid of new challenges, have worked with many technologies and languages. On my free time I develop mobile applications, currently working with Flutter, and maintaining an app with over 2.5k daily active users.</p>
+<p style="text-align: justify">Have helped built more than 5 international banks!</p>
 
-<h4 style="text-align: justify"> From Brazil, currently living in Barcelona.
+<p style="text-align: justify"> From Brazil, currently living in Barcelona.
 Fluent english, portuguese, spanish and Catalan.
 Currently deploying in one of the largest fintechs in europe, N26, been in big companies (IBM), medium sized companies (GFT) and some small sized.
 Love to create new things, passionate about technology, innovation and everything surrounding it, it is my craft.
-Comfortable leading a team of engineers and managing engineering stakeholders.</h4>
+Comfortable leading a team of engineers and managing engineering stakeholders.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panthro&label=Profile%20views&color=0e75b6&style=flat" alt="panthro" /> </p>
 
